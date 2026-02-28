@@ -1,0 +1,15 @@
+diamond
+5.76
+5
+stone
+3
+6.8463
+silver
+2
+8
+gold
+2
+9.3
+iron
+1.02
+10

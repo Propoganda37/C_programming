@@ -1,0 +1,20 @@
+PS5 str
+Sony
+300
+200
+Nintendo switchstr
+Nintendo
+250
+150
+Samsung Galaxy S22 Ultrastr
+Samsung 
+250
+100
+IPad 5str
+Apple
+230
+167
+PS4str
+Sony
+150
+150

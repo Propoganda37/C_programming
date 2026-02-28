@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "initializer_list": "c",
+        "libprocess.h": "c"
+    }
+}
